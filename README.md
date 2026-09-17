@@ -11,6 +11,8 @@
 
 The goal of this portfolio is to keep my work simple, clear, and easy to explore, while giving more focus to the actual projects and experience behind my work.
 
+---
+
 ## ✨ Features
 
 - Responsive design for desktop, tablet, and mobile
@@ -26,6 +28,8 @@ The goal of this portfolio is to keep my work simple, clear, and easy to explore
 - Dark mode toggle
 - Easy navigation between sections
 
+---
+
 ## 🛠️ Built With
 
 - **React** — Building the user interface
@@ -33,6 +37,8 @@ The goal of this portfolio is to keep my work simple, clear, and easy to explore
 - **JavaScript** — Logic and interactions
 - **HTML5** — Structure
 - **CSS3** — Styling, layout, responsiveness, and animations
+
+---
 
 ## 📁 Project Structure
 
@@ -59,6 +65,8 @@ aarush-portfolio/
 ├── vite.config.js
 └── README.md
 ```
+
+---
 
 ## 🚀 Run Locally
 
@@ -88,6 +96,8 @@ npm run dev
 
 Open the local URL shown in the terminal to view the portfolio.
 
+---
+
 ## 📦 Production Build
 
 Create a production build:
@@ -102,6 +112,8 @@ Preview the production build:
 npm run preview
 ```
 
+---
+
 ## 📌 What You'll Find Here
 
 - Software engineering projects
@@ -113,36 +125,43 @@ npm run preview
 - Coding profiles
 - Certificates and achievements
 
+---
+
 ## 👨‍💻 About Me
 
 I'm a 3rd-year Artificial Intelligence & Data Science student interested in software engineering, AI/ML, data, and building practical products.
 
 I enjoy solving problems, learning new technologies, and turning ideas into working applications. My projects range from software and web development to machine learning, computer vision, and data-driven applications.
 
+---
+
 ## 📫 Connect With Me
 
-<div align="center">
-  <a href="https://github.com/Aarush005coder">
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:khandelwalaarush2@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://aarush-portfolio-six.vercel.app/">
-    <img src="https://cdn.simpleicons.org/vercel/000000" alt="Portfolio" width="40" />
-  </a>
-  <br />
-  <a href="https://github.com/Aarush005coder"> GitHub </a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/"> LinkedIn </a>
-  &nbsp; · &nbsp;
-  <a href="mailto:khandelwalaarush2@gmail.com"> Email </a>
-  &nbsp; · &nbsp;
-  <a href="https://aarush-portfolio-six.vercel.app/"> Portfolio </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Aarush005coder">
+        <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="48" />
+        <br /><sub><strong>GitHub</strong></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/">
+        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="48" />
+        <br /><sub><strong>LinkedIn</strong></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:khandelwalaarush2@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="48" />
+        <br /><sub><strong>Email</strong></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://aarush-portfolio-six.vercel.app/">
+        <img src="https://cdn.simpleicons.org/vercel/000000" alt="Portfolio" width="48" />
+        <br /><sub><strong>Portfolio</strong></sub>
+      </a>
+    </td>
+  </tr>
+</table>
