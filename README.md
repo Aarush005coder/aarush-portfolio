@@ -149,9 +149,14 @@ I enjoy solving problems, learning new technologies, and turning ideas into work
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:khandelwalaarush2@gmail.com">
+<a href="mailto:khandelwalaarush2@gmail.com?subject=Contact%20from%20Portfolio">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="42" height="42" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br>
+
+<a href="mailto:khandelwalaarush2@gmail.com?subject=Contact%20from%20Portfolio">
+  Email Me
+</a>
 
 <a href="https://aarush-portfolio-six.vercel.app/">
