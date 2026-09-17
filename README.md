@@ -137,31 +137,32 @@ I enjoy solving problems, learning new technologies, and turning ideas into work
 
 ## 📫 Connect With Me
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Aarush005coder">
-        <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="48" />
-        <br /><sub><strong>GitHub</strong></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/">
-        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="48" />
-        <br /><sub><strong>LinkedIn</strong></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:khandelwalaarush2@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="48" />
-        <br /><sub><strong>Email</strong></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://aarush-portfolio-six.vercel.app/">
-        <img src="https://cdn.simpleicons.org/vercel/000000" alt="Portfolio" width="48" />
-        <br /><sub><strong>Portfolio</strong></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/Aarush005coder">
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="42" />
+</a>
+
+<a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="42" />
+</a>
+
+<a href="mailto:khandelwalaarush2@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="42" />
+</a>
+
+<a href="https://aarush-portfolio-six.vercel.app/">
+  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" width="42" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Aarush005coder">GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:khandelwalaarush2@gmail.com">Email</a>
+&nbsp; · &nbsp;
+<a href="https://aarush-portfolio-six.vercel.app/">Portfolio</a>
+
+</div>
