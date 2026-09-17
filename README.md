@@ -145,7 +145,12 @@ I enjoy solving problems, learning new technologies, and turning ideas into work
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="42" height="42" />
+  <img
+    src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    alt="LinkedIn"
+    width="42"
+    height="42"
+  />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -157,15 +162,4 @@ I enjoy solving problems, learning new technologies, and turning ideas into work
 <a href="https://aarush-portfolio-six.vercel.app/">
   <img src="https://cdn.simpleicons.org/vercel/FFFFFF" alt="Portfolio" width="42" height="42" />
 </a>
-
-<br><br>
-
-<a href="https://github.com/Aarush005coder">GitHub</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="mailto:khandelwalaarush2@gmail.com">Email</a>
-&nbsp; · &nbsp;
-<a href="https://aarush-portfolio-six.vercel.app/">Portfolio</a>
-
 </div>
