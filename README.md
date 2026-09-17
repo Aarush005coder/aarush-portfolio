@@ -140,19 +140,22 @@ I enjoy solving problems, learning new technologies, and turning ideas into work
 <div align="center">
 
 <a href="https://github.com/Aarush005coder">
-  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" alt="GitHub" width="42" height="42" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/aarush-khandelwal-1b99a7320/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" alt="LinkedIn" width="42" height="42" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:khandelwalaarush2@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gmail.svg" alt="Email" width="42" height="42" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://aarush-portfolio-six.vercel.app/">
-  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" width="42" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/vercel.svg" alt="Portfolio" width="42" height="42" />
 </a>
 
 <br><br>
