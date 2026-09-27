@@ -304,6 +304,14 @@ export const PORTFOLIO = {
       image: "images/certs/aincat-2026", url: "" },
     { name: "TechQuezt #34: AI in the Real World", issuer: "Naukri Campus", tag: "Quiz",
       image: "images/certs/techquezt-34", url: "" },
+    { name: "TATA Crucible Campus Quiz 2025", issuer: "Tata Group · Unstop", tag: "Quiz",
+      image: "images/certs/tata-crucible-campus-quiz", url: "" },
+    { name: "ICICI Lombard's Igniting Minds", issuer: "Indian Institute of Technology (IIT), Bombay", tag: "Participation",
+      image: "images/certs/icici-lombard-igniting", url: "" },
+    { name: "EY Techathon 6.0 — Round 1", issuer: "EY · Executive Summary Submission", tag: "Techathon",
+      image: "images/certs/ey-techathon-6", url: "" },
+    { name: "Tata Imagination Challenge 2024", issuer: "Tata Group · Student Track", tag: "Challenge",
+      image: "images/certs/tata-imagination-challenge", url: "" },
   ],
 
   about: {
