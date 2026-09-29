@@ -312,6 +312,8 @@ export const PORTFOLIO = {
       image: "images/certs/ey-techathon-6", url: "" },
     { name: "Tata Imagination Challenge 2024", issuer: "Tata Group · Student Track", tag: "Challenge",
       image: "images/certs/tata-imagination-challenge", url: "" },
+    { name: "Nexus AI Quiz Ignite 2026", issuer: "Nexus · Unstop", tag: "Quiz",
+      image: "images/certs/nexus-ai-quiz-ignite-2026", url: "" },
   ],
 
   about: {
