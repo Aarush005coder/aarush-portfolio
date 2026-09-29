@@ -314,6 +314,8 @@ export const PORTFOLIO = {
       image: "images/certs/tata-imagination-challenge", url: "" },
     { name: "Nexus AI Quiz Ignite 2026", issuer: "Nexus · Unstop", tag: "Quiz",
       image: "images/certs/nexus-ai-quiz-ignite-2026", url: "" },
+    { name: "NEXTGEN AI Hackathon", issuer: "AI Academia · Unstop", tag: "Hackathon",
+      image: "images/certs/nextgen-ai-hackathon", url: "" },
   ],
 
   about: {
