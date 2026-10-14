@@ -316,6 +316,8 @@ export const PORTFOLIO = {
       image: "images/certs/nexus-ai-quiz-ignite-2026", url: "" },
     { name: "NEXTGEN AI Hackathon", issuer: "AI Academia · Unstop", tag: "Hackathon",
       image: "images/certs/nextgen-ai-hackathon", url: "" },
+    { name: "HackIndia Spark 6 @ NIT Delhi", issuer: "Bellatrix 2026 · NIT Delhi", tag: "Hackathon",
+      image: "images/certs/hackindia-spark-6-nit-delhi", url: "" },
   ],
 
   about: {
